@@ -1,6 +1,7 @@
 "use strict";
-let timeID=
-let questionList= querySelectorAll(div#quiz input)
+let timeID;
+let questionList
+let querySelectorAll(div#quiz input)
 /*    JavaScript 7th Edition
       Chapter 5
       Project 05-01
